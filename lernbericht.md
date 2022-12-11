@@ -16,10 +16,10 @@ Das kann man zum Beispiel verhindern, indem man Filter einbaut.
 
 Der erste Schritt ist es den Filter zu erstellen. 
 Das ist sehr simple, indem man im NetBeans das bestimmte Projekt öffnet und im Source Package einen neuen Filter erstellt.
+![1](https://user-images.githubusercontent.com/54137474/206934873-84a33034-9c6c-4754-91bf-4e34b0dfbc3d.jpg)
 
 Danach muss der Filter konfiguriert werden. 
-
-![image]()
+![2](https://user-images.githubusercontent.com/54137474/206934882-c69a8ff2-a8cb-4212-84ce-944cc7c6b831.jpg)
 
 Jedoch wird die eigentliche Filtrierung im doFilter vorgenommen.
 ```java
